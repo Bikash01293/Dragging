@@ -6,13 +6,11 @@ This project was describes about how we can drag files and can also select the f
 
 In the project directory, you can run:
 
-### `cd backend`
-
 ### `npm i`
 
 ### `npm start`
 
-### `cd client`
+### `cd backend`
 
 ### `npm i`
 
