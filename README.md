@@ -2,6 +2,8 @@
 
 This project was describes about how we can drag files and can also select the files to upload.
 
+![Uploading Screenshot 2023-05-27 at 5.07.22 PM.png…]()
+
 ## Available Scripts
 
 In the project directory, you can run:
