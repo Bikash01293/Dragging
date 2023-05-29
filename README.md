@@ -20,3 +20,5 @@ In the project directory, you can run:
 
 Finally the overall project is a part of the drive where we can drag and drop files, hence can selet files to upload.
 
+Note: Development server of create-react-app does not auto refresh, so please refresh the page after using `npm start`.
+
