@@ -2,7 +2,7 @@
 
 This project was describes about how we can drag files and can also select the files to upload.
 
-<img width="1427" alt="Screenshot 2023-05-29 at 12 31 17 PM" src="https://github.com/Bikash01293/Dragging/assets/48493235/e6e54b9d-10a3-4c3f-ae3b-5172181cfe1e">
+<img width="1427" alt="Screenshot 2023-05-29 at 12 44 31 PM" src="https://github.com/Bikash01293/Dragging/assets/48493235/7d8cd153-19b8-4b6d-a31d-8de2ed985218">
 
 ## Available Scripts
 
