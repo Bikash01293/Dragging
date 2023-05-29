@@ -7,11 +7,6 @@
 body {
   margin: 0;
   font-family: 'Open-Sans',sans-serif;
-  color: #343a4a;
-  display: flex;
-  justify-content: center;
-  min-height: 100vh;
-  margin-top: 20vh;
 }
 
 code {
