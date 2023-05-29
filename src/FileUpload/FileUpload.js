@@ -47,7 +47,7 @@ const FileUpload = ({ files, setFiles, removeFile, onDrop, accept }) => {
                             </p>
                         ) : (
                             <p className="main" >
-                                Drag’ n’ drop files anywhere on the screen
+                                Drag’ n’ drop files anywhere on the screen or click to select files
                             </p>
                         )}
                     </div>
